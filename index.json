@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiocouchdb",
+  "versions": [
+    {
+      "commit": "84a08cc339c430175c069b894b3e27b034f45b12",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:57:58.840042+00:00"
+    }
+  ]
+}
